@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Deepesh-Jain-WL
-- 👀 I’m interested to code better.
+- 👀 I’m interested in coding to deliver quality software.
 - 🌱 I’m currently learning .Net Core.
